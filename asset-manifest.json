@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b2988bef.css",
+    "main.js": "/portfolio/static/js/main.dfe2c91b.js",
+    "static/js/488.5dc00adb.chunk.js": "/portfolio/static/js/488.5dc00adb.chunk.js",
+    "static/media/embedded_systems.png": "/portfolio/static/media/embedded_systems.d1eea886dd99ba1ccac5.png",
+    "static/media/Embedded.png": "/portfolio/static/media/Embedded.a2d4ebb386f1e4f9f9f3.png",
+    "static/media/machinelearning.jpg": "/portfolio/static/media/machinelearning.a2d4ebb386f1e4f9f9f3.jpg",
+    "static/media/firmware.jpg": "/portfolio/static/media/firmware.95c18153e84271c184db.jpg",
+    "static/media/resume2.pdf": "/portfolio/static/media/resume2.b466275e3db8cd0e9d23.pdf",
+    "static/media/ContactMe.png": "/portfolio/static/media/ContactMe.c3d7605b6781da0b8af4.png",
+    "static/media/mypic.jpeg": "/portfolio/static/media/mypic.8181690511ecd7c786d7.jpeg",
+    "static/media/Freq_response.png": "/portfolio/static/media/Freq_response.95b6d70c7a492291cdb6.png",
+    "index.html": "/portfolio/index.html",
+    "main.b2988bef.css.map": "/portfolio/static/css/main.b2988bef.css.map",
+    "main.dfe2c91b.js.map": "/portfolio/static/js/main.dfe2c91b.js.map",
+    "488.5dc00adb.chunk.js.map": "/portfolio/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2988bef.css",
+    "static/js/main.dfe2c91b.js"
+  ]
+}
